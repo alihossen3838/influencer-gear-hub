@@ -1,0 +1,29 @@
+:root {
+  /* Font Families */
+  --font-heading: "Poppins", sans-serif; /* For titles and headings */
+  --font-body: "Inter", sans-serif; /* For normal text and details */
+}
+
+/* Basic Reset and Body */
+body {
+  font-family: var(--font-body);
+  font-weight: 400; /* Regular */
+  line-height: 1.6;
+  color: #3a3a3a; /* Primary fonts color */
+}
+
+/* For Heading-Poppins */
+h1,
+h2,
+h3,
+.brand-name {
+  font-family: var(--font-heading);
+  font-weight: 700; /* Bold */
+}
+
+/* For Buttons and Navigation */
+.nav-link,
+.btn-primary {
+  font-family: var(--font-heading);
+  font-weight: 600; /* Semi-bold */
+}
