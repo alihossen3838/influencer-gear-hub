@@ -1,3 +1,10 @@
+/* CSS Reset & Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
   /* Font Families */
   --font-heading: "Poppins", sans-serif; /* For titles and headings */
@@ -26,4 +33,19 @@ h3,
 .btn-primary {
   font-family: var(--font-heading);
   font-weight: 600; /* Semi-bold */
+}
+
+/* Shared Style */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
 }
