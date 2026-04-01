@@ -17,7 +17,7 @@ This project was developed as part of my web development learning journey. The g
 - **Google Fonts:** For modern typography.
 
 ## 📸 Preview
-![Project Screenshot](./path-to-your-screenshot.png)
+![Project Screenshot](https://github.com/alihossen3838/influencer-gear-hub/blob/main/design-resources/influencer-gears.png?raw=true)
 
 ## 🔗 Live Demo
 [View Live Site](your-live-link-here.netlify.app)
